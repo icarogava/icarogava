@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Icaro Gava!</h1>
 <h3 align="center">👋 Welcome to My GitHub Profile!</h3>
 
-- 🔧 I’m currently learning **Machine Learning and Py**
+- 🔧 I’m Specialist in **Excel and BI**, not a begginer but not a master too in **SQL**
 
 - 🌱 I’m currently learning **Machine Learning and Py**
 
